@@ -14,11 +14,11 @@ NB: This computation is **inherently exponential**, so please show restraint.
 I'm sure excessive request would annoy the great team at Wikipedia as well.
 At 3+ degrees of adjacency, the graph as it is becomes too cluttered.
 I recommend playing around with the physics with the sliders provided.
-I recommend:
-	- forceAtlas2Based solver
-	- reducing centralGravity (>0)
-	- reducing gravitationalConstant
-	- playing around!
+I recommend: <br>
+	- forceAtlas2Based solver <br>
+	- reducing centralGravity (>0) <br>
+	- reducing gravitationalConstant <br>
+	- playing around! <br>
 If you find any optimal physics/other options, 
 let me know or go ahead and build it.
 
